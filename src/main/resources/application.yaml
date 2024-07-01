@@ -1,0 +1,14 @@
+spring:
+  application:
+    name:clean-architecture-practice
+
+  datasource:
+    driver-class-name: com.mysql.sw.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/test?serverTimezone=Asia/Seoul
+    username: sw
+    password: sw3152
+
+    jpa:
+      properties:
+        hibernate:
+          format_sql: true
