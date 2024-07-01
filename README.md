@@ -1,5 +1,6 @@
-# clean-architecture-practice
+## clean-architecture-practice
 intellj hexagonal project practice
+```text
 
 src
 ├── main
@@ -28,5 +29,5 @@ src
         └── com
             └── sw
                 └── UserTests.java
-
-# Google, KaKao, Naver Api 를 활용한 Login 연습
+```
+## Google, KaKao, Naver Api 를 활용한 Login 연습
